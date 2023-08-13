@@ -1,4 +1,4 @@
-# CMSC 256
+## CMSC 256
 #### Data Structures & Object Oriented Programming
 ####### All works are written in Java in IntelliJ IDEA
 
