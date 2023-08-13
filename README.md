@@ -7,17 +7,17 @@
 ###### Lab 06 has a csv file that can be used to run it which you can find alongside the src file
 
 ### 1) [Labs](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs):
-- Lab 00 [Debugging Practice]
-- Lab 01 [Inheritance Lab]
-- Lab 02 [Interface Implementation]
-- Lab 03 [Recursion]
-- Lab 04 [Array-based List Implementation]
-- Lab 05 [Algorithim Analysis]
-- Lab 06 [Sorting and Searching]
-- Lab 07 [Array-based Stack implementation]
-- Lab 08 [Binary Search Tree Implementation]
-- Lab 09 [Min Heap Implementation]
-- Lab 10 [Hash Table Implementation]
+- Lab 00 [Debugging Practice](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab00/DebuggingPractice.java)
+- Lab 01 [Inheritance Lab](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab01)
+- Lab 02 [Interface Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab02/MyBook.java)
+- Lab 03 [Recursion](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab03/RecursiveMethods.java)
+- Lab 04 [Array-based List Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab04)
+- Lab 05 [Algorithim Analysis](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab05/AlgorithmAnalysisLab.java)
+- Lab 06 [Sorting and Searching](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab06)
+- Lab 07 [Array-based Stack implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab07)
+- Lab 08 [Binary Search Tree Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab08/BinarySearchTree.java)
+- Lab 09 [Min Heap Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab09/MinHeap.java)
+- Lab 10 [Hash Table Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab10)
 
 ### 2) Projects:
 - Project 01 [2D Array]
