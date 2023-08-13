@@ -1,6 +1,6 @@
 ## CMSC 256
 #### Data Structures & Object Oriented Programming
-#####All works are written in Java in IntelliJ IDEA
+##### All works are written in Java in IntelliJ IDEA
 
 ### [Table of Contents](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src)
 ###### Note : Some classes, while runnable, have failed some tests meaning they do not fully work as intended. This note will be removed when those projects are fixed.
