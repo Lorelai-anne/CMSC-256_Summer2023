@@ -20,9 +20,10 @@
 - Lab 10 [Hash Table Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab10)
 
 ### 2) Projects:
-- Project 01 [2D Array]
-- Project 02 [Inheritance]
-- Project 03 [Transpositional Self-Organizing list]
-- Project 04 [Music Collection]
-- Project 05 [Stack Implementation]
-- Project 06 [Binary Search Tree Method Implementation]
+- Project 01 [2D Array](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Projects/Project01/Grid.java)
+- Project 02 [Inheritance](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project02)
+- Project 03 [Transpositional Self-Organizing list](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project03)
+- Project 04 [Music Collection](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project04)
+- Project 05 [Stack Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project05)
+- Project 06 [Binary Search Tree Method Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Projects/Project06/BinarySearchTree.java)
+- Project 07 [Hash Table Separate Chaining](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project07)
