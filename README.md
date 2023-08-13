@@ -4,8 +4,9 @@
 
 ### Table of Contents
 ###### Note : Not all projects work properly, this note will be removed when those files are fixed.
+###### Lab 06 has a csv file that can be used to run it which you can find alongside the src file
 
-### 1) Labs:
+### 1) [Labs]https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs:
 - Lab 00 [Debugging Practice]
 - Lab 01 [Inheritance Lab]
 - Lab 02 [Interface Implementation]
