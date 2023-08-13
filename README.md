@@ -11,7 +11,7 @@
 - Lab 01 : [Inheritance Lab](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab01)
 - Lab 02 : [Interface Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab02/MyBook.java)
 - Lab 03 : [Recursion](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab03/RecursiveMethods.java)
-- Lab 04 : [Array-based List Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab04):star:
+- Lab 04 : [Array-based List Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab04):exclamation:
 - Lab 05 : [Algorithim Analysis](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab05/AlgorithmAnalysisLab.java):star:
 - Lab 06 : [Sorting and Searching](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab06)
 - Lab 07 : [Array-based Stack implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab07)
