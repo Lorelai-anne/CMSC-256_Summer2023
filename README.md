@@ -27,4 +27,4 @@
 - Project 04 : [Music Collection](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project04):exclamation:
 - Project 05 : [Stack Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project05)
 - Project 06 : [Binary Search Tree Method Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Projects/Project06/BinarySearchTree.java):exclamation:
-- Project 07 : [Hash Table Separate Chaining](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project07):star:
+- Project 07 : [Hash Table Separate Chaining](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Projects/Project07):exclamation:
