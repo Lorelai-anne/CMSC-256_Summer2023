@@ -3,7 +3,7 @@
 ####### All works are written in Java in IntelliJ IDEA
 
 ### [Table of Contents](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src)
-###### Note : Not all projects work properly, this note will be removed when those files are fixed.
+###### Note : Some classes have failed tests and will be marked with :star:, this note will be removed when those files are fixed.
 ###### Lab 06 has a csv file that can be used to run it which you can find alongside the src file
 
 ### 1) [Labs](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs):
