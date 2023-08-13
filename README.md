@@ -3,7 +3,7 @@
 ####### All works are written in Java in IntelliJ IDEA
 
 ### [Table of Contents](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src)
-###### Note : Some classes have failed tests and will be marked with :star:, this note will be removed when those files are fixed.
+###### Note : Some classes have failed tests and will be marked with a :star:, this note will be removed when those files are fixed.
 ###### Lab 06 has a csv file that can be used to run it which you can find alongside the src file
 
 ### 1) [Labs](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs):
@@ -11,7 +11,7 @@
 - Lab 01 : [Inheritance Lab](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab01)
 - Lab 02 : [Interface Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab02/MyBook.java)
 - Lab 03 : [Recursion](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab03/RecursiveMethods.java)
-- Lab 04 : [Array-based List Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab04)
+- Lab 04 : [Array-based List Implementation] :star: (https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab04)
 - Lab 05 : [Algorithim Analysis](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab05/AlgorithmAnalysisLab.java)
 - Lab 06 : [Sorting and Searching](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab06)
 - Lab 07 : [Array-based Stack implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab07)
