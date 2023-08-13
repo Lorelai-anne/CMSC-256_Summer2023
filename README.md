@@ -7,7 +7,7 @@
 ###### Lab 06 has a csv file that can be used to run it which you can find alongside the src file
 
 ### 1) [Labs](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs):
-- Lab 00 [Debugging Practice](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab00/DebuggingPractice.java)
+- Lab 00 : [Debugging Practice](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab00/DebuggingPractice.java)
 - Lab 01 [Inheritance Lab](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs/Lab01)
 - Lab 02 [Interface Implementation](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab02/MyBook.java)
 - Lab 03 [Recursion](https://github.com/Lorelai-anne/CMSC-256_Summer2023/blob/main/CMSC256/src/Labs/Lab03/RecursiveMethods.java)
