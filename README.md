@@ -4,7 +4,7 @@
 
 ### [Table of Contents](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src)
 ###### Note : Some classes, while runnable, have failed some tests meaning they do not fully work as intended. This note will be removed when those projects are fixed.
-###### Projects that failed tests will be marked with a :exclamation:
+###### Projects that failed tests will be marked with a:exclamation:
 ###### Lab 06 has a csv file that can be used to run it which you can find alongside the src file
 
 ### 1) [Labs](https://github.com/Lorelai-anne/CMSC-256_Summer2023/tree/main/CMSC256/src/Labs):
